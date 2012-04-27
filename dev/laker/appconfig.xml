@@ -1,6 +1,6 @@
 <XML>
 <CONFIG appname="laker.app" title="laker" type="BOOK" pkgname="PRODUCTION" release="3.4.0" revision="4">
-<BUNDLE base="http://cloud.github.com/downloads/kmshi/MagzineCamp" file="laker.zip" version="1" />
+<BUNDLE base="https://apis.live.net/v5.0/me/skydrive/public_documents" file="laker.zip" version="1" />
 <JAVASCRIPT platform="iphone" version="3.3.0" url="http://assets.edge.flycast.fm/appmobi/javascript/iPhone/3.4.0/appmobi_iphone.js" />
 <JAVASCRIPT platform="android" version="3.3.0" url="http://assets.edge.flycast.fm/appmobi/javascript/Android/3.4.0/appmobi_android.js" />
 <SECURITY hasCaching="1" hasStreaming="1" hasAnalytics="1" hasPushNotify="0" hasInAppPay="0" hasAdvertising="0" hasLiveUpdate="1" hasOAuth="0" />
