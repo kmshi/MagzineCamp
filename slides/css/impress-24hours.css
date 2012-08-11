@@ -269,7 +269,7 @@ a:focus {
     height: 120px;
     background-color: #e0e0e0;
     display: block;
-    text-align: center;
+    /*text-align: center;*/
     
     -moz-border-radius: 8px;
     -khtml-border-radius: 8px;
