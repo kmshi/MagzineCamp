@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XML>
+<CONFIG appname="123041.app" title="环球 123041" type="BOOK" pkgname="5.45 MB" release="1.0.0" revision="1">
+<BUNDLE base="http://oss.aliyuncs.com/24hours" file="123041.zip" version="1" />
+</CONFIG>
+</XML>

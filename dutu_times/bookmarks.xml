@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xml>
- <bookmarks footer="http://oss.aliyuncs.com/dutu_times/ad.xml" sequence="108" showAd="1" storeversion="104">
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123031.xml" appname="123031.app" bookmarkid="123031.app" image="http://oss.aliyuncs.com/dutu_times/123031.jpg" name="娱乐 123031" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123032.xml" appname="123032.app" bookmarkid="123032.app" image="http://oss.aliyuncs.com/dutu_times/123032.jpg" name="娱乐 123032" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123033.xml" appname="123033.app" bookmarkid="123033.app" image="http://oss.aliyuncs.com/dutu_times/123033.jpg" name="娱乐 123033" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123034.xml" appname="123034.app" bookmarkid="123034.app" image="http://oss.aliyuncs.com/dutu_times/123034.jpg" name="娱乐 123034" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123035.xml" appname="123035.app" bookmarkid="123035.app" image="http://oss.aliyuncs.com/dutu_times/123035.jpg" name="环球 123035" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123036.xml" appname="123036.app" bookmarkid="123036.app" image="http://oss.aliyuncs.com/dutu_times/123036.jpg" name="写真 123036" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123037.xml" appname="123037.app" bookmarkid="123037.app" image="http://oss.aliyuncs.com/dutu_times/123037.jpg" name="写真 123037" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123038.xml" appname="123038.app" bookmarkid="123038.app" image="http://oss.aliyuncs.com/dutu_times/123038.jpg" name="写真 123038" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123039.xml" appname="123039.app" bookmarkid="123039.app" image="http://oss.aliyuncs.com/dutu_times/123039.jpg" name="环球 123039" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123040.xml" appname="123040.app" bookmarkid="123040.app" image="http://oss.aliyuncs.com/dutu_times/123040.jpg" name="写真 123040" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123041.xml" appname="123041.app" bookmarkid="123041.app" image="http://oss.aliyuncs.com/dutu_times/123041.jpg" name="环球 123041" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123042.xml" appname="123042.app" bookmarkid="123042.app" image="http://oss.aliyuncs.com/dutu_times/123042.jpg" name="环球 123042" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123043.xml" appname="123043.app" bookmarkid="123043.app" image="http://oss.aliyuncs.com/dutu_times/123043.jpg" name="环球 123043" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123044.xml" appname="123044.app" bookmarkid="123044.app" image="http://oss.aliyuncs.com/dutu_times/123044.jpg" name="环球 123044" relname="1.0.0"/>
-  <bookmark appconfig="http://oss.aliyuncs.com/dutu_times/123045.xml" appname="123045.app" bookmarkid="123045.app" image="http://oss.aliyuncs.com/dutu_times/123045.jpg" name="娱乐 123045" relname="1.0.0"/>
+ <bookmarks footer="http://idearadar.org/dutu_times/ad.xml" sequence="110" showAd="1" storeversion="104">
+  <bookmark appconfig="http://idearadar.org/dutu_times/123041.xml" appname="123041.app" bookmarkid="123041.app" image="http://idearadar.org/dutu_times/123041.jpg" name="环球 123041" relname="1.0.0"/>
+  <bookmark appconfig="http://idearadar.org/dutu_times/123042.xml" appname="123042.app" bookmarkid="123042.app" image="http://idearadar.org/dutu_times/123042.jpg" name="环球 123042" relname="1.0.0"/>
+  <bookmark appconfig="http://idearadar.org/dutu_times/123043.xml" appname="123043.app" bookmarkid="123043.app" image="http://idearadar.org/dutu_times/123043.jpg" name="环球 123043" relname="1.0.0"/>
+  <bookmark appconfig="http://idearadar.org/dutu_times/123044.xml" appname="123044.app" bookmarkid="123044.app" image="http://idearadar.org/dutu_times/123044.jpg" name="环球 123044" relname="1.0.0"/>
+  <bookmark appconfig="http://idearadar.org/dutu_times/123045.xml" appname="123045.app" bookmarkid="123045.app" image="http://idearadar.org/dutu_times/123045.jpg" name="娱乐 123045" relname="1.0.0"/>
  </bookmarks>
 </xml>
